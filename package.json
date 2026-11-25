@@ -1,0 +1,20 @@
+{
+  "name": "glow-care",
+  "version": "1.0.0",
+  "description": "Glow Care - Dermatological Skincare E-Commerce Full Stack Application",
+  "scripts": {
+    "start": "node backend/server.js",
+    "build": "cd frontend && npm run build",
+    "build:frontend": "cd frontend && npm run build",
+    "dev": "node dev-runner.js"
+  },
+  "keywords": [
+    "skincare",
+    "ecommerce",
+    "react",
+    "express",
+    "fullstack"
+  ],
+  "author": "Adesara Kirtan (Mentor: Mahipal Sir)",
+  "license": "ISC"
+}
